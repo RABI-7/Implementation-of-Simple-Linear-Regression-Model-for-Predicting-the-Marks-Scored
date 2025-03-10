@@ -72,11 +72,18 @@ print('thank you')
 */
 ```
 
+
+
 ## Output:
+
 ![image](https://github.com/user-attachments/assets/bb7b1a8a-c371-4c20-9513-cc91639dc3ac)
+
 ![image](https://github.com/user-attachments/assets/60b0d4a3-a3cb-426a-a88e-ec39757b69cb)
+
 ![image](https://github.com/user-attachments/assets/271c36a5-82e8-4ebd-bad5-48ec37ad1da4)
+
 ![image](https://github.com/user-attachments/assets/5a6a6d23-40d0-4815-942f-5acb9787ee9c)
+
 
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
